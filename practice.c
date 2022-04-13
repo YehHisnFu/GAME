@@ -2,7 +2,7 @@
 #include <stdlib.h>
 #include <windows.h>
 
-//inference-->https://www.youtube.com/watch?v=kWdzxJmVOUs
+//inference-->https://www.youtube.com/watch?v=kWdzxJmVOUs   
 /* run this program using the console pauser or add your own getch, system("pause") or input loop */
 void MoveCursorPosition(int x,int y)//移動光標位置 
 {
